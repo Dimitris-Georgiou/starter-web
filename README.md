@@ -7,6 +7,7 @@ asdasdas
 aaa
 aaa
 ## how to contribute
+please fork this repo
 ## Deployment
 Sample website with plenty of files for demosaaaa
 ### Copytight
